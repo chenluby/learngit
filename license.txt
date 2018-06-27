@@ -2,4 +2,8 @@ Git a.
 Git b.
 Git c.
 Git d.
+<<<<<<< HEAD
 Git eeemaster.
+=======
+Git eeeeeeeeeeee.
+>>>>>>> feature1
