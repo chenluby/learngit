@@ -2,8 +2,11 @@ Git a.
 Git b.
 Git c.
 Git d.
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Git f...
 =======
 Git ff.
 >>>>>>> Stashed changes
+=======
+>>>>>>> feature-vulan
