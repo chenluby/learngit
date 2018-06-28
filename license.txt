@@ -2,4 +2,8 @@ Git a.
 Git b.
 Git c.
 Git d.
+<<<<<<< Updated upstream
 Git f...
+=======
+Git ff.
+>>>>>>> Stashed changes
